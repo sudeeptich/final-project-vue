@@ -1,0 +1,29 @@
+{"bloods": [{
+  "id":1,
+  "blood_group":"A+",
+  "donor": "A+,AB+",
+  "recipient": "A+,A-,O+,O-",
+  "personality": "Creative,Patient and Responsible"
+
+},
+{
+  "id":2,
+  "blood_group":"B+",
+  "donor": "B+,AB+",
+  "recipient": "B+,B-,O+,O-",
+  "personality": "Passionate,Active nature and Strong"
+},
+{
+  "id":3,
+  "blood_group":"AB+",
+  "donor": "AB+",
+  "recipient": "EVERYONE",
+  "personality": "Cool,Controlled and Adaptable"
+},
+{
+  "id":4,
+  "blood_group":"O+",
+  "donor": "O+,A+,B+,AB+",
+  "recipient": "O+,O-",
+  "personality": "Confident,Strong-Willed and intuitive"
+}]}
